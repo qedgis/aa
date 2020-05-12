@@ -59,7 +59,7 @@ terriamap:
             helpContent: 
                 - 
                   itemName: gettingstarted
-                  markdownText: "# Getting started with the map\n\nIf you're new to the map or using spatial data, our Getting Started video quickly covers the basic functionality you'll need to use to add and interrogate data sets.\n\nIf you don't have time to watch the video, we suggest exploring the following areas:\n\n1. Search for a location to quickly find an area of interest"
+                  markdownText: "# Getting started with the map\n\nIf you're new to the map or using spatial data, our Getting Started video quickly covers the basic functionality you'll need to use to add and interrogate data sets.\n\nIf"
                   icon: "video"
                   videoUrl: "https://www.youtube.com/embed/NTtSM70rIvI"
                   placeholderImage: "https://img.youtube.com/vi/NTtSM70rIvI/maxresdefault.jpg"
